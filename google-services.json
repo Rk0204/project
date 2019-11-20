@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30978557016",
+    "firebase_url": "https://spindle-7dc7b.firebaseio.com",
+    "project_id": "spindle-7dc7b",
+    "storage_bucket": "spindle-7dc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30978557016:android:d76ab9140bc25f4f6cf62d",
+        "android_client_info": {
+          "package_name": "com.spindle.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30978557016-q1jpt2kfm39h9e9du9i3c3ohha2elpoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqOAiUNmzh8W2IhZnTPkTmgdhGK9GrIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30978557016-q1jpt2kfm39h9e9du9i3c3ohha2elpoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
