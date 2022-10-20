@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-app-auth": "~5.0.1",
     "expo-google-app-auth": "^7.0.0",
     "expo-google-sign-in": "~5.0.1",
